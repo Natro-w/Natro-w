@@ -108,15 +108,3 @@
 
 </div>
 
-<style>
-  @keyframes bloodPulse {
-    0%,100% { text-shadow:0 0 25px #ff0000,0 0 50px #ff0000; transform:scale(1); }
-    50% { text-shadow:0 0 50px #ff0000,0 0 100px #ff0000,0 0 150px #ff0000; transform:scale(1.03); }
-  }
-  @media (max-width:600px) {
-    h1 { font-size:3.8em !important; }
-    h2 { font-size:2.8em !important; }
-    div[style*="max-width"] { padding:18px; }
-    img { border-width:3px !important; }
-  }
-</style>
