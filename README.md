@@ -6,7 +6,7 @@
 
 ---
 
-> ⚡ **Mysterious. Dark. Professional. Futuristic.**  
+> ⚡ Mysterious. Dark. Professional. Futuristic.  
 > 🧠 Developer mastering **games, automation, APIs, and tools**.  
 > 💻 Languages: **C#, C++, JavaScript, Node.js, Python**  
 > 🌌 Motto: **“Upgrading Iraq.”**  
@@ -28,18 +28,17 @@
 ### 🎮 Featured Projects
 
 #### [ProMag Steam Games](https://github.com/Natro-w/promag-steam-games)  
-Add and manage Steam games **freely and effortlessly**.  
+Add and manage Steam games freely and effortlessly.  
 - Show all Steam games  
-- Add games with **1 click**  
+- Add games with 1 click  
 - Track all added games  
 - Remove added games easily  
-> *(Server currently under maintenance)*
+> Server currently under maintenance
 
 ---
 
 ### 📊 GitHub Stats
 ![Natro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natro-w&show_icons=true&theme=dark&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Natro-w&layout=compact&theme=dark&hide_border=true)
 
 ---
@@ -51,12 +50,11 @@ Add and manage Steam games **freely and effortlessly**.
 ---
 
 ### 🌌 Let’s Build the Future
-I’m always exploring **futuristic tech**, crafting **automation tools**, and pushing **games and APIs** beyond limits.  
+I explore futuristic tech, craft automation tools, and push games and APIs beyond limits.
 
 ---
 
-### 🔮 Animated Typing Effect (optional)
-```html
+### 🔮 Animated Typing Effect
 <h1><span class="txt-rotate" data-period="2000" data-rotate='[ "Building Games.", "Automating Systems.", "Upgrading Iraq." ]'></span></h1>
 <script>
 class TxtRotate {
@@ -91,4 +89,5 @@ window.onload = function() {
 };
 </script>
 <style>.txt-rotate > .wrap{ border-right: 0.08em solid #fff }</style>
+
 </div>
