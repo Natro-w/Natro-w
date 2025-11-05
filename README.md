@@ -32,9 +32,9 @@ Add and manage Steam games effortlessly and freely.
 ---
 
 ### 📊 GitHub Stats
-![Natro's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatroDev&show_icons=true&theme=dark&hide_border=true)
+![Natro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natro-w&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NatroDev&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Natro-w&layout=compact&theme=dark&hide_border=true)
 
 ---
 
