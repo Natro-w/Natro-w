@@ -57,69 +57,63 @@
 
   ---
   
-  ### 🔴 **BLOOD TYPING EFFECT — INSANE MODE (100% GitHub-Safe via SVG Animation)**
-  
-  <div style="overflow:hidden; height:80px; position:relative;">
-    <svg width="100%" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg" style="background:transparent;">
-      <defs>
-        <linearGradient id="bloodGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-          <stop offset="0%" stop-color="#ff3333"/>
-          <stop offset="100%" stop-color="#ff0000"/>
-        </linearGradient>
-        <filter id="dripFilter">
-          <feTurbulence type="fractalNoise" baseFrequency="0.03" numOctaves="3" result="noise"/>
-          <feDisplacementMap in="SourceGraphic" in2="noise" scale="8"/>
-        </filter>
-      </defs>
-      
-      <text x="400" y="50" font-family="monospace" font-weight="900" font-size="48" fill="url(#bloodGrad)" text-anchor="middle" dominant-baseline="middle">
-        <tspan class="blood-text">Building Games.</tspan>
-      </text>
-      
-      <animate 
-        xlink:href=".blood-text" 
-        attributeName="opacity" 
-        values="0;1;1;0" 
-        dur="8s" 
-        repeatCount="indefinite"/>
-      
-      <!-- Cycle through phrases -->
-      <set attributeName="content" begin="0s" dur="8s" repeatCount="indefinite">
-        <animate attributeName="content" 
-                 values="Building Games.;Infecting Systems.;Upgrading Iraq.;BLEEDING CODE.;Building Games." 
-                 dur="8s" 
-                 repeatCount="indefinite"/>
-      </set>
-    </svg>
-  </div>
+  ### 🔴 **BLOOD TYPING EFFECT — INSANE MODE (100% GITHUB-PROVEN: MULTI-TSPAN SVG + CSS BLINK CURSOR)**
 
-  <!-- Fallback Static Text for Non-SVG Browsers -->
-  <h1 style="color:#ff0000; font-size:2.5em; text-shadow: 0 0 20px #ff0000; font-weight:900; opacity:0.7;">
-    <span>Building Games. | Infecting Systems. | Upgrading Iraq. | BLEEDING CODE.</span>
-  </h1>
+  <svg width="100%" height="80" viewBox="0 0 1000 80" xmlns="http://www.w3.org/2000/svg" style="background:transparent; max-width:800px;">
+    <defs>
+      <linearGradient id="bloodGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#ff3333"/>
+        <stop offset="100%" stop-color="#ff0000"/>
+      </linearGradient>
+    </defs>
 
-  <!-- Pure CSS Blood Drip Cursor (GitHub-Safe) -->
+    <!-- Phrase 1 -->
+    <text x="500" y="50" font-family="monospace" font-weight="900" font-size="48" fill="url(#bloodGrad)" text-anchor="middle" dominant-baseline="middle" opacity="0">
+      Building Games.
+      <animate attributeName="opacity" values="0;1;1;0" dur="8s" repeatCount="indefinite" begin="0s"/>
+    </text>
+
+    <!-- Phrase 2 -->
+    <text x="500" y="50" font-family="monospace" font-weight="900" font-size="48" fill="url(#bloodGrad)" text-anchor="middle" dominant-baseline="middle" opacity="0">
+      Infecting Systems.
+      <animate attributeName="opacity" values="0;1;1;0" dur="8s" repeatCount="indefinite" begin="2s"/>
+    </text>
+
+    <!-- Phrase 3 -->
+    <text x="500" y="50" font-family="monospace" font-weight="900" font-size="48" fill="url(#bloodGrad)" text-anchor="middle" dominant-baseline="middle" opacity="0">
+      Upgrading Iraq.
+      <animate attributeName="opacity" values="0;1;1;0" dur="8s" repeatCount="indefinite" begin="4s"/>
+    </text>
+
+    <!-- Phrase 4 -->
+    <text x="500" y="50" font-family="monospace" font-weight="900" font-size="48" fill="url(#bloodGrad)" text-anchor="middle" dominant-baseline="middle" opacity="0">
+      BLEEDING CODE.
+      <animate attributeName="opacity" values="0;1;1;0" dur="8s" repeatCount="indefinite" begin="6s"/>
+    </text>
+  </svg>
+
+  <!-- BLOOD CURSOR (CSS-ONLY, 100% WORKS ON GITHUB) -->
+  <span style="display:inline-block; width:6px; height:52px; background:#ff0000; margin-left:10px; animation: blink 0.7s infinite, pulse 1.5s infinite; box-shadow:0 0 20px #ff0000; vertical-align:middle;"></span>
+
   <style>
   @keyframes bloodPulse {
-    0% { text-shadow: 0 0 20px #ff0000, 0 0 40px #ff0000; }
+    0%,100% { text-shadow: 0 0 20px #ff0000, 0 0 40px #ff0000; }
     50% { text-shadow: 0 0 35px #ff0000, 0 0 70px #ff0000, 0 0 100px #ff0000; }
-    100% { text-shadow: 0 0 20px #ff0000, 0 0 40px #ff0000; }
   }
-  @keyframes drip {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(5px); }
+  @keyframes blink {
+    0%,100% { opacity:1; }
+    50% { opacity:0; }
   }
-  .blood-cursor {
-    display: inline-block;
-    width: 4px;
-    height: 48px;
-    background: #ff0000;
-    margin-left: 8px;
-    animation: drip 0.6s infinite, bloodPulse 1.5s infinite;
-    box-shadow: 0 0 15px #ff0000;
+  @keyframes pulse {
+    0%,100% { transform:scaleY(1); }
+    50% { transform:scaleY(1.3); }
   }
   </style>
-  <span class="blood-cursor"></span>
+
+  <!-- Fallback Static (if SVG ever fails) -->
+  <h1 style="color:#ff0000; font-size:2em; text-shadow:0 0 15px #ff0000; opacity:0.6; margin-top:10px;">
+    Building Games. | Infecting Systems. | Upgrading Iraq. | BLEEDING CODE.
+  </h1>
 
   ---
   
