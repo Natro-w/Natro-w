@@ -21,7 +21,7 @@
 
 ### 🔥 Featured Projects
 
-#### 🎮 [ProMag Steam Games](https://github.com/NatroDev/promag-steam-games)  
+#### 🎮 [ProMag Steam Games](https://github.com/Natro-w/promag-steam-games)  
 Add and manage Steam games effortlessly and freely.  
 - Show all Steam games  
 - Add games with **1 click**  
