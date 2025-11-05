@@ -1,126 +1,93 @@
 <div align="center">
 
-  <!-- PULSING BLOOD HEADER -->
-  <h1 style="color:#ff0000; font-size:4.8em; font-weight:900; letter-spacing:5px; text-shadow: 0 0 30px #ff0000, 0 0 60px #ff0000, 0 0 90px #ff0000; animation: bloodPulse 1.4s infinite alternate; margin:30px 0 10px;">
-    👁️ NATRO 👁️
-  </h1>
+# 👁️ Natro
 
-  <!-- BLOOD FILTERED BANNER -->
-  <img src="https://i.ibb.co/2gyQ5vL/cyber-dark-banner.jpg" alt="INFECTED CYBER VOID" width="100%" style="max-width:900px; border:4px solid #ff0000; border-radius:20px; box-shadow:0 0 40px #ff0000, inset 0 0 40px rgba(255,0,0,0.4); filter:brightness(65%) contrast(160%); transition:transform 0.3s ease;" onmouseover="this.style.transform='scale(1.01)'" onmouseout="this.style.transform='scale(1)'"/>
+![Header Banner](https://i.ibb.co/2gyQ5vL/cyber-dark-banner.jpg)
 
-  <br><br>
+---
 
-  <!-- RED SEPARATOR -->
-  <div style="height: 3px; background: linear-gradient(90deg, transparent, #ff0000, transparent); margin: 28px 0; box-shadow: 0 0 18px #ff0000; border-radius: 2px;"></div>
+> ⚡ Mysterious. Dark. Professional. Futuristic.  
+> 🧠 Developer mastering **games, automation, APIs, and tools**.  
+> 💻 Languages: **C#, C++, JavaScript, Node.js, Python**  
+> 🌌 Motto: **“Upgrading Iraq.”**  
+> 🔒 Location: Private  
 
-  <!-- INFECTED INTRO -->
-  <div style="background: rgba(139, 0, 0, 0.25); padding: 20px; border-radius: 16px; border: 2px solid #ff0000; max-width: 700px; margin: 0 auto; box-shadow: 0 0 25px rgba(255,0,0,0.3); font-size: 1.1em; line-height: 1.8;">
-    <p style="margin: 8px 0; color: #ff0000;"><strong>MYSTERIOUS. DARK. PROFESSIONAL. FUTURISTIC. INFECTED.</strong></p>
-    <p style="margin: 8px 0; color: #ff0000;">🧠 <strong>MASTER OF GAMES, AUTOMATION, APIs, TOOLS — AND DIGITAL CHAOS.</strong></p>
-    <p style="margin: 8px 0; color: #ff0000;">💻 <strong>LANGUAGES: C# • C++ • JavaScript • Node.js • Python</strong></p>
-    <p style="margin: 8px 0; color: #ff0000;">🌌 <strong>MOTTO: “UPGRADING IRAQ.” — IN BLOOD CODE.</strong></p>
-    <p style="margin: 8px 0; color: #ff0000;">🔒 <strong>LOCATION: PRIVATE — BUT I SEE YOU.</strong></p>
-  </div>
+---
 
-  <div style="height: 3px; background: linear-gradient(90deg, transparent, #ff0000, transparent); margin: 28px 0; box-shadow: 0 0 18px #ff0000; border-radius: 2px;"></div>
+### 🖤 Tech Stack & Skills
+![C#](https://img.shields.io/badge/-C%23-181717?logo=c-sharp&logoColor=239120)
+![C++](https://img.shields.io/badge/-C++-181717?logo=c%2B%2B&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-181717?logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-181717?logo=node.js)
+![Python](https://img.shields.io/badge/-Python-181717?logo=python)
+![APIs](https://img.shields.io/badge/-APIs-181717?logo=restful&logoColor=white)
+![Automation](https://img.shields.io/badge/-Automation-181717?logo=automation)
 
-  <!-- INFECTED TECH STACK -->
-  <h3 style="color:#ff0000; margin:20px 0 15px; text-shadow:0 0 10px #ff0000;">🖤 INFECTED TECH STACK</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 800px; margin: 0 auto;">
-    <img src="https://img.shields.io/badge/-C%23-ff0000?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=8B0000" alt="C#"/>
-    <img src="https://img.shields.io/badge/-C++-ff0000?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=8B0000" alt="C++"/>
-    <img src="https://img.shields.io/badge/-JavaScript-ff0000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8B0000" alt="JS"/>
-    <img src="https://img.shields.io/badge/-Node.js-ff0000?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8B0000" alt="Node"/>
-    <img src="https://img.shields.io/badge/-Python-ff0000?style=for-the-badge&logo=python&logoColor=white&labelColor=8B0000" alt="Python"/>
-    <img src="https://img.shields.io/badge/-APIs-ff0000?style=for-the-badge&logo=openapi&logoColor=white&labelColor=8B0000" alt="APIs"/>
-    <img src="https://img.shields.io/badge/-Automation-ff0000?style=for-the-badge&logo=selenium&logoColor=white&labelColor=8B0000" alt="Auto"/>
-  </div>
+---
 
-  <div style="height: 3px; background: linear-gradient(90deg, transparent, #ff0000, transparent); margin: 28px 0; box-shadow: 0 0 18px #ff0000; border-radius: 2px;"></div>
+### 🎮 Featured Projects
 
-  <!-- INFECTED PROJECT -->
-  <h3 style="color:#ff0000; margin:20px 0 15px; text-shadow:0 0 10px #ff0000;">🎮 INFECTED PROJECT</h3>
-  <div style="background: rgba(139, 0, 0, 0.35); padding: 22px; border-radius: 18px; border: 2px solid #ff0000; box-shadow: 0 0 30px rgba(255,0,0,0.4); max-width: 700px; margin: 0 auto; text-align: left;">
-    <h4 style="margin:0 0 12px 0;">
-      <a href="https://github.com/Natro-w/promag-steam-games" style="color: #ff0000; text-decoration: none; font-weight: 900; font-size: 1.3em; text-shadow: 0 0 8px #ff0000; transition: all 0.3s ease;" onmouseover="this.style.color='#ff3333'; this.style.textShadow='0 0 15px #ff0000';" onmouseout="this.style.color='#ff0000'; this.style.textShadow='0 0 8px #ff0000';">🩸 ProMag Steam Games</a>
-    </h4>
-    <p style="color:#ff4444; font-weight:600; margin:8px 0;">
-      ADD AND CONTROL STEAM GAMES — LIKE A VIRUS IN THE SYSTEM.
-    </p>
-    <ul style="color: #ff3333; margin: 12px 0; padding-left: 28px; line-height: 1.7;">
-      <li>Inject all Steam games</li>
-      <li>1-click domination</li>
-      <li>Track every infected title</li>
-      <li>Delete without a trace</li>
-    </ul>
-    <p style="color:#ff1111; font-style:italic; font-weight:700; margin:12px 0 0;">
-      > SERVER UNDER BLOOD MAINTENANCE — REBOOTING IN HELL
-    </p>
-  </div>
+#### [ProMag Steam Games](https://github.com/Natro-w/promag-steam-games)  
+Add and manage Steam games freely and effortlessly.  
+- Show all Steam games  
+- Add games with 1 click  
+- Track all added games  
+- Remove added games easily  
+> Server currently under maintenance
 
-  <div style="height: 3px; background: linear-gradient(90deg, transparent, #ff0000, transparent); margin: 28px 0; box-shadow: 0 0 18px #ff0000; border-radius: 2px;"></div>
+---
 
-  <!-- BLEEDING STATS -->
-  <h3 style="color:#ff0000; margin:20px 0 15px; text-shadow:0 0 10px #ff0000;">📊 GITHUB STATS — BLEEDING RED</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; max-width: 900px; margin: 0 auto;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Natro-w&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff0000&icon_color=ff3333&text_color=ff6666&border_color=ff0000" alt="Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natro-w&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff0000&text_color=ff6666&border_color=ff0000" alt="Languages"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Natro-w&theme=radical&hide_border=true&background=0d0d0d&stroke=ff0000&ring=ff3333&fire=ff0000&currStreakLabel=ff6666&border=ff0000" alt="Streak"/>
-  </div>
+### 📊 GitHub Stats
+![Natro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natro-w&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Natro-w&layout=compact&theme=dark&hide_border=true)
 
-  <div style="height: 3px; background: linear-gradient(90deg, transparent, #ff0000, transparent); margin: 28px 0; box-shadow: 0 0 18px #ff0000; border-radius: 2px;"></div>
+---
 
-  <!-- INFECTED MOTTO -->
-  <h3 style="color:#ff0000; margin:20px 0 15px; text-shadow:0 0 10px #ff0000;">⚡ INFECTED MOTTO</h3>
-  <blockquote style="border-left: 6px solid #ff0000; padding: 18px 22px; background: rgba(139, 0, 0, 0.2); border-radius: 12px; max-width: 700px; margin: 20px auto; box-shadow: 0 0 22px rgba(255,0,0,0.35); text-align: left;">
-    <p style="font-size:1.5em; margin:0 0 8px; font-weight:900; color:#ff0000;">
-      “THE CODE RUNS DEEPER THAN THE SURFACE. I BUILD. I AUTOMATE. I UPGRADE — IN BLOOD.”
-    </p>
-    <p style="font-size:1.3em; margin:0; font-weight:900; color:#ff3333;">
-      UPGRADING IRAQ. ONE BYTE AT A TIME.
-    </p>
-  </blockquote>
+### ⚡ Motto
+> “The code runs deeper than the surface. I build, I automate, I upgrade.”  
+> **Upgrading Iraq.**
 
-  <div style="height: 3px; background: linear-gradient(90deg, transparent, #ff0000, transparent); margin: 28px 0; box-shadow: 0 0 18px #ff0000; border-radius: 2px;"></div>
+---
 
-  <!-- INFECT THE FUTURE -->
-  <h3 style="color:#ff0000; margin:20px 0 15px; text-shadow:0 0 10px #ff0000;">🌌 LET’S INFECT THE FUTURE</h3>
-  <p style="color: #ff0000; font-size: 1.25em; max-width: 700px; margin: 20px auto; line-height: 1.7; text-shadow: 0 0 10px rgba(255,0,0,0.4);">
-    I explore <strong>forbidden tech</strong>, forge <strong>automation weapons</strong>, push games and APIs into <strong>the void</strong>.
-  </p>
+### 🌌 Let’s Build the Future
+I explore futuristic tech, craft automation tools, and push games and APIs beyond limits.
 
-  <div style="height: 3px; background: linear-gradient(90deg, transparent, #ff0000, transparent); margin: 28px 0; box-shadow: 0 0 18px #ff0000; border-radius: 2px;"></div>
+---
 
-  <!-- FINAL WARNING -->
-  <h3 style="color:#ff0000; margin:20px 0 15px; text-shadow:0 0 10px #ff0000;">🚨 FINAL WARNING — IN RED</h3>
-  <div style="background: #8B0000; padding: 25px; border-radius: 16px; border: 3px solid #ff0000; box-shadow: 0 0 35px #ff0000; max-width: 700px; margin: 25px auto;">
-    <p style="font-weight:900; font-size:1.4em; margin:0 0 12px; color:#ff0000;">
-      THIS PROFILE MAY CAUSE:
-    </p>
-    <ul style="color: #ff3333; text-align: left; margin: 0; padding-left: 28px; line-height: 1.8; font-size: 1.1em;">
-      <li><strong>Digital hemorrhage</strong></li>
-      <li><strong>Code addiction</strong></li>
-      <li><strong>Uncontrollable urge to upgrade Iraq</strong></li>
-      <li><strong>FBI watchlist entry</strong></li>
-    </ul>
-  </div>
-
-  <!-- FINAL INFECTED MESSAGE -->
-  <h2 style="color:#ff0000; font-size:3.2em; text-shadow: 0 0 25px #ff0000, 0 0 50px #ff0000; animation: bloodPulse 1.2s infinite; margin:40px 0 20px;">
-    ⚠️ YOU HAVE BEEN INFECTED ⚠️
-  </h2>
+### 🔮 Animated Typing Effect
+<h1><span class="txt-rotate" data-period="2000" data-rotate='[ "Building Games.", "Automating Systems.", "Upgrading Iraq." ]'></span></h1>
+<script>
+class TxtRotate {
+  constructor(el, toRotate, period) {
+    this.toRotate = toRotate;
+    this.el = el;
+    this.loopNum = 0;
+    this.period = parseInt(period, 10) || 2000;
+    this.txt = '';
+    this.tick();
+    this.isDeleting = false;
+  }
+  tick() {
+    let i = this.loopNum % this.toRotate.length;
+    let fullTxt = this.toRotate[i];
+    this.txt = this.isDeleting ? fullTxt.substring(0, this.txt.length - 1) : fullTxt.substring(0, this.txt.length + 1);
+    this.el.innerHTML = '<span class="wrap">'+this.txt+'</span>';
+    let delta = 200 - Math.random() * 100;
+    if(this.isDeleting){ delta /= 2; }
+    if(!this.isDeleting && this.txt === fullTxt){ delta = this.period; this.isDeleting = true; }
+    else if(this.isDeleting && this.txt === ''){ this.isDeleting = false; this.loopNum++; delta = 500; }
+    setTimeout(()=>{ this.tick(); }, delta);
+  }
+}
+window.onload = function() {
+  let elements = document.getElementsByClassName('txt-rotate');
+  for(let i=0; i<elements.length; i++){
+    let toRotate = elements[i].getAttribute('data-rotate');
+    let period = elements[i].getAttribute('data-period');
+    if(toRotate){ new TxtRotate(elements[i], JSON.parse(toRotate), period); }
+  }
+};
+</script>
+<style>.txt-rotate > .wrap{ border-right: 0.08em solid #fff }</style>
 
 </div>
-
-<style>
-  @keyframes bloodPulse {
-    0% { text-shadow: 0 0 20px #ff0000, 0 0 40px #ff0000; transform: scale(1); }
-    50% { text-shadow: 0 0 40px #ff0000, 0 0 80px #ff0000, 0 0 120px #ff0000; transform: scale(1.02); }
-    100% { text-shadow: 0 0 20px #ff0000, 0 0 40px #ff0000; transform: scale(1); }
-  }
-
-  @media (max-width: 600px) {
-    h1 { font-size: 3.5em !important; }
-    div[style*="max-width"] { padding: 15px; font-size: 0.95em; }
-  }
-</style>
