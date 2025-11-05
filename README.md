@@ -23,11 +23,6 @@
 
 #### 🎮 [ProMag Steam Games](https://github.com/Natro-w/promag-steam-games)  
 Add and manage Steam games effortlessly and freely.  
-- Show all Steam games  
-- Add games with **1 click**  
-- Track all added games  
-- Remove added games easily  
-> *(Server currently under maintenance.)*
 
 ---
 
