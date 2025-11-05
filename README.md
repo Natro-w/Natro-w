@@ -2,7 +2,7 @@
   <h1 style="color:#ff0000; font-size:4.5em; text-shadow: 0 0 25px #ff0000, 0 0 50px #ff0000, 0 0 75px #ff0000; animation: bloodPulse 1.3s infinite; font-weight:900; letter-spacing:3px;">
     👁️ <span style="color:#ff0000;">NATRO</span> 👁️
   </h1>
-  <img src="https://i.ibb.co/2gyQ5vL/cyber-dark-banner.jpg" alt="CYBER BLOOD BANNER" width="100%" style="filter: hue-rotate(0deg) brightness(60%) contrast(150%); border: 3px solid #ff0000; box-shadow: 0 0 30px #ff0000;"/>
+  <img src="https://i.ibb.co/2gyQ5vL/cyber-dark-banner.jpg" alt="CYBER BLOOD BANNER" width="100%" style="filter: hue-rotate(0deg) brightness(60%) contrast(150%); border: 3px solid #ff0000; box-shadow: 0 0 30px #ff0000; border-radius: 15px;"/>
   <br><br>
   ---
   > **⚡ <span style="color:#ff0000;">MYSTERIOUS. DARK. PROFESSIONAL. FUTURISTIC. INFECTED.</span>**  
@@ -13,13 +13,13 @@
   ---
   
   ### 🖤 **INFECTED TECH STACK**
-  <img src="https://img.shields.io/badge/-C%23-ff0000?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=8B0000" />
-  <img src="https://img.shields.io/badge/-C++-ff0000?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=8B0000" />
-  <img src="https://img.shields.io/badge/-JavaScript-ff0000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8B0000" />
-  <img src="https://img.shields.io/badge/-Node.js-ff0000?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8B0000" />
-  <img src="https://img.shields.io/badge/-Python-ff0000?style=for-the-badge&logo=python&logoColor=white&labelColor=8B0000" />
-  <img src="https://img.shields.io/badge/-APIs-ff0000?style=for-the-badge&logo=openapi&logoColor=white&labelColor=8B0000" />
-  <img src="https://img.shields.io/badge/-Automation-ff0000?style=for-the-badge&logo=selenium&logoColor=white&labelColor=8B0000" />
+  <img src="https://img.shields.io/badge/-C%23-ff0000?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=8B0000" alt="C#"/>
+  <img src="https://img.shields.io/badge/-C++-ff0000?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=8B0000" alt="C++"/>
+  <img src="https://img.shields.io/badge/-JavaScript-ff0000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8B0000" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-Node.js-ff0000?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8B0000" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-Python-ff0000?style=for-the-badge&logo=python&logoColor=white&labelColor=8B0000" alt="Python"/>
+  <img src="https://img.shields.io/badge/-APIs-ff0000?style=for-the-badge&logo=openapi&logoColor=white&labelColor=8B0000" alt="APIs"/>
+  <img src="https://img.shields.io/badge/-Automation-ff0000?style=for-the-badge&logo=selenium&logoColor=white&labelColor=8B0000" alt="Automation"/>
   <br><br>
 
   ---
@@ -37,9 +37,9 @@
   ---
   
   ### 📊 **GITHUB STATS — BLEEDING RED**
-  <img src="https://github-readme-stats.vercel.app/api?username=Natro-w&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff0000&icon_color=ff3333&text_color=ff6666&border_color=ff0000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natro-w&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff0000&text_color=ff6666&border_color=ff0000" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Natro-w&theme=radical&hide_border=true&background=0d0d0d&stroke=ff0000&ring=ff3333&fire=ff0000&currStreakLabel=ff6666&border=ff0000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Natro-w&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff0000&icon_color=ff3333&text_color=ff6666&border_color=ff0000" alt="Natro's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natro-w&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff0000&text_color=ff6666&border_color=ff0000" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Natro-w&theme=radical&hide_border=true&background=0d0d0d&stroke=ff0000&ring=ff3333&fire=ff0000&currStreakLabel=ff6666&border=ff0000" alt="GitHub Streak"/>
   <br><br>
 
   ---
@@ -57,47 +57,48 @@
 
   ---
   
-  ### 🔴 **BLOOD TYPING EFFECT — INSANE MODE**
-  <h1 style="color:#ff0000; font-size:3em; text-shadow: 0 0 20px #ff0000, 0 0 40px #ff0000; font-weight:900;">
-    <span class="blood-rotate" data-period="1800" data-rotate='[ "Building Games.", "Infecting Systems.", "Upgrading Iraq.", "BLEEDING CODE." ]'></span>
+  ### 🔴 **BLOOD TYPING EFFECT — INSANE MODE (100% GitHub-Safe via SVG Animation)**
+  
+  <div style="overflow:hidden; height:80px; position:relative;">
+    <svg width="100%" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg" style="background:transparent;">
+      <defs>
+        <linearGradient id="bloodGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#ff3333"/>
+          <stop offset="100%" stop-color="#ff0000"/>
+        </linearGradient>
+        <filter id="dripFilter">
+          <feTurbulence type="fractalNoise" baseFrequency="0.03" numOctaves="3" result="noise"/>
+          <feDisplacementMap in="SourceGraphic" in2="noise" scale="8"/>
+        </filter>
+      </defs>
+      
+      <text x="400" y="50" font-family="monospace" font-weight="900" font-size="48" fill="url(#bloodGrad)" text-anchor="middle" dominant-baseline="middle">
+        <tspan class="blood-text">Building Games.</tspan>
+      </text>
+      
+      <animate 
+        xlink:href=".blood-text" 
+        attributeName="opacity" 
+        values="0;1;1;0" 
+        dur="8s" 
+        repeatCount="indefinite"/>
+      
+      <!-- Cycle through phrases -->
+      <set attributeName="content" begin="0s" dur="8s" repeatCount="indefinite">
+        <animate attributeName="content" 
+                 values="Building Games.;Infecting Systems.;Upgrading Iraq.;BLEEDING CODE.;Building Games." 
+                 dur="8s" 
+                 repeatCount="indefinite"/>
+      </set>
+    </svg>
+  </div>
+
+  <!-- Fallback Static Text for Non-SVG Browsers -->
+  <h1 style="color:#ff0000; font-size:2.5em; text-shadow: 0 0 20px #ff0000; font-weight:900; opacity:0.7;">
+    <span>Building Games. | Infecting Systems. | Upgrading Iraq. | BLEEDING CODE.</span>
   </h1>
 
-  <script>
-  class BloodRotate {
-    constructor(el, toRotate, period) {
-      this.toRotate = toRotate;
-      this.el = el;
-      this.loopNum = 0;
-      this.period = parseInt(period, 10) || 2000;
-      this.txt = '';
-      this.tick();
-      this.isDeleting = false;
-    }
-    tick() {
-      let i = this.loopNum % this.toRotate.length;
-      let fullTxt = this.toRotate[i];
-      this.txt = this.isDeleting ? fullTxt.substring(0, this.txt.length - 1) : fullTxt.substring(0, this.txt.length + 1);
-      
-      const shadow = this.isDeleting ? '0 0 15px #ff0000' : '0 0 25px #ff0000, 0 0 50px #ff0000';
-      this.el.innerHTML = `<span style="color:#ff0000; text-shadow: ${shadow}; animation: drip 0.1s infinite;">${this.txt}</span><span style="color:#ff0000; animation: blink 0.6s infinite;">|</span>`;
-      
-      let delta = 180 - Math.random() * 80;
-      if(this.isDeleting){ delta /= 3; }
-      if(!this.isDeleting && this.txt === fullTxt){ delta = this.period; this.isDeleting = true; }
-      else if(this.isDeleting && this.txt === ''){ this.isDeleting = false; this.loopNum++; delta = 600; }
-      setTimeout(()=>{ this.tick(); }, delta);
-    }
-  }
-  window.onload = function() {
-    let elements = document.getElementsByClassName('blood-rotate');
-    for(let i=0; i<elements.length; i++){
-      let toRotate = elements[i].getAttribute('data-rotate');
-      let period = elements[i].getAttribute('data-period');
-      if(toRotate){ new BloodRotate(elements[i], JSON.parse(toRotate), period); }
-    }
-  };
-  </script>
-
+  <!-- Pure CSS Blood Drip Cursor (GitHub-Safe) -->
   <style>
   @keyframes bloodPulse {
     0% { text-shadow: 0 0 20px #ff0000, 0 0 40px #ff0000; }
@@ -106,17 +107,19 @@
   }
   @keyframes drip {
     0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(3px); }
+    50% { transform: translateY(5px); }
   }
-  @keyframes blink {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0; }
-  }
-  .blood-rotate > span { 
-    font-weight: 900;
-    letter-spacing: 2px;
+  .blood-cursor {
+    display: inline-block;
+    width: 4px;
+    height: 48px;
+    background: #ff0000;
+    margin-left: 8px;
+    animation: drip 0.6s infinite, bloodPulse 1.5s infinite;
+    box-shadow: 0 0 15px #ff0000;
   }
   </style>
+  <span class="blood-cursor"></span>
 
   ---
   
