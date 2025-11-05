@@ -112,7 +112,6 @@
 
 </div>
 
-<!-- PURE CSS ANIMATIONS & STYLES (100% GITHUB SAFE) -->
 <style>
   @keyframes bloodPulse {
     0% { text-shadow: 0 0 20px #ff0000, 0 0 40px #ff0000; transform: scale(1); }
